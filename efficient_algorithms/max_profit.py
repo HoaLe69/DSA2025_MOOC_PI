@@ -69,4 +69,3 @@ while True:
     if result_brute != result_fast:
         print("Error")
         break
-
